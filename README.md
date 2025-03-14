@@ -1,2 +1,2 @@
 # 2025-Spring-Course-Projects
-This is the repository for the school lab  
+This is a summary project of the lab report for the Network and System Operation and Maintenance course.
